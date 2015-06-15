@@ -1,0 +1,1 @@
+OMRON FINS protocol ActiveX for Ethernet and RS232. Development under VB6.0, especially intended for Industrial Automation Applications. Started by the blogger of http://indanotes.blogspot.com
